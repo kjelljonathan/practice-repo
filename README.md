@@ -1,3 +1,3 @@
-# changing things around
+# changing things
 
 # practice-repo
